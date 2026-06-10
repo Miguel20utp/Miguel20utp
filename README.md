@@ -1,6 +1,6 @@
 ## Hi there 👋
 - My name is Miguel Angel i'm a student from UTP (tecnology university of Pereira)
-- Especially especially in the Systems Engineering program
+- Especially in the Systems Engineering program
 - Now i'm learning from Github
 - And i hope you enjoy what i'm gonna do here
 - Thanks...
